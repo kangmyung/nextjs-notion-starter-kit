@@ -26,7 +26,7 @@ export default siteConfig({
 
   // default notion icon and cover images for site-wide consistency (optional)
   // page-specific values will override these site-wide defaults
-  defaultPageIcon: null,
+  defaultPageIcon: 'https://img.icons8.com/ios/250/000000/air-jordan.png',
   defaultPageCover: 'https://img.icons8.com/ios/250/000000/facebook-new.png',
   defaultPageCoverPosition: 0.5,
 
