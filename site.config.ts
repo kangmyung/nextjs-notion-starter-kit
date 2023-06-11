@@ -10,7 +10,7 @@ export default siteConfig({
 
   // basic site info (required)
   name: 'Tsubaki',
-  domain: 'nextjs-notion-starter-kit.transitivebullsh.it',
+  domain: 'landing.effect.moe',
   author: 'Travis Fischer',
 
   // open graph metadata (optional)
