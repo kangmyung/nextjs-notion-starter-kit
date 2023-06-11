@@ -11,7 +11,7 @@ export default siteConfig({
   // basic site info (required)
   name: 'Tsubaki',
   domain: 'landing.effect.moe',
-  author: 'Travis Fischer',
+  author: 'EFFECT.Co.,Ltd.',
 
   // open graph metadata (optional)
   description: 'Example Next.js Notion Starter Kit Site',
