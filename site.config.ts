@@ -2,8 +2,8 @@ import { siteConfig } from './lib/site-config'
 
 export default siteConfig({
   // the site's root Notion page (required)
-  rootNotionPageId: '38649dae352947fc81fb19a5773fd5d1',
-
+  rootNotionPageId: 'Rime-Nailsalon-e3fa2e1b39d7440598d7d161e0ace53f',
+//38649dae352947fc81fb19a5773fd5d1
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
